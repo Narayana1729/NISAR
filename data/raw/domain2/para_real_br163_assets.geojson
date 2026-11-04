@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamanxim National Forest Western Buffer Zone (Par\u00e1)",
+        "asset_class": "protected_area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.228,
+              -6.695
+            ],
+            [
+              -55.212,
+              -6.695
+            ],
+            [
+              -55.212,
+              -6.68
+            ],
+            [
+              -55.228,
+              -6.68
+            ],
+            [
+              -55.228,
+              -6.695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BR-163 Secondary Feeder Corridor & Riparian Margin",
+        "asset_class": "road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.23,
+            -6.692
+          ],
+          [
+            -55.218,
+            -6.686
+          ],
+          [
+            -55.206,
+            -6.678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novo Progresso Eastern Forest Conservation Sector",
+        "asset_class": "protected_area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.214,
+              -6.684
+            ],
+            [
+              -55.205,
+              -6.684
+            ],
+            [
+              -55.205,
+              -6.673
+            ],
+            [
+              -55.214,
+              -6.673
+            ],
+            [
+              -55.214,
+              -6.684
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

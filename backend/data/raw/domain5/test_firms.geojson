@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [9.0019, 36.1437]}, "properties": {"confidence": "high", "brightness": 345.2, "instrument": "VIIRS"}}]}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cohasset Ridge WUI Community Buffer",
+        "asset_class": "settlement"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.754,
+              39.95
+            ],
+            [
+              -121.748,
+              39.95
+            ],
+            [
+              -121.748,
+              39.955
+            ],
+            [
+              -121.754,
+              39.955
+            ],
+            [
+              -121.754,
+              39.95
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forest Ranch Evacuation Corridor",
+        "asset_class": "road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.757,
+            39.949
+          ],
+          [
+            -121.751,
+            39.953
+          ],
+          [
+            -121.746,
+            39.957
+          ]
+        ]
+      }
+    }
+  ]
+}

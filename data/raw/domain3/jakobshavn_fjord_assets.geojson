@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilulissat Icefjord Monitoring Zone",
+        "asset_class": "protected_area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.855,
+              69.165
+            ],
+            [
+              -49.81,
+              69.165
+            ],
+            [
+              -49.81,
+              69.185
+            ],
+            [
+              -49.855,
+              69.185
+            ],
+            [
+              -49.855,
+              69.165
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

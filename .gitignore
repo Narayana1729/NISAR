@@ -1,0 +1,34 @@
+node_modules
+dist
+frontend/dist
+.env
+*.log
+screenshots/
+qa-shots/
+output/
+.gev-logs/
+.gev-cache/
+.DS_Store
+.gstack/
+3d-models/
+pinokio/ENVIRONMENT
+pinokio/.installed
+
+# Python virtual environment & bytecode
+backend/venv/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Large generated outputs (preserve directory structure via .gitkeep)
+data/outputs/*
+!data/outputs/.gitkeep
+data/outputs/*/*
+!data/outputs/*/.gitkeep
+data/intermediate/*
+!data/intermediate/.gitkeep
+data/staging/*
+!data/staging/.gitkeep

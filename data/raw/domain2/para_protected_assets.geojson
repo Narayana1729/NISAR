@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tapaj\u00f3s Protected Buffer Sector North",
+        "asset_class": "protected_area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.019,
+              -3.515
+            ],
+            [
+              -55.011,
+              -3.515
+            ],
+            [
+              -55.011,
+              -3.508
+            ],
+            [
+              -55.019,
+              -3.508
+            ],
+            [
+              -55.019,
+              -3.515
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern Intact Reserve Core",
+        "asset_class": "protected_area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.011,
+              -3.518
+            ],
+            [
+              -55.008,
+              -3.518
+            ],
+            [
+              -55.008,
+              -3.512
+            ],
+            [
+              -55.011,
+              -3.512
+            ],
+            [
+              -55.011,
+              -3.518
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

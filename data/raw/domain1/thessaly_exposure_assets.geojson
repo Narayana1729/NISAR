@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern Lake Karla Agricultural Plain (Sector A)",
+        "asset_class": "agriculture",
+        "crop_type": "Cotton & Winter Wheat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.805,
+              39.462
+            ],
+            [
+              22.855,
+              39.462
+            ],
+            [
+              22.855,
+              39.505
+            ],
+            [
+              22.805,
+              39.505
+            ],
+            [
+              22.805,
+              39.462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stefanovikeio\u2013Kanalia Provincial Road Corridor",
+        "asset_class": "road",
+        "highway": "secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.802,
+            39.465
+          ],
+          [
+            22.825,
+            39.48
+          ],
+          [
+            22.85,
+            39.495
+          ],
+          [
+            22.885,
+            39.51
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Karla Drainage Embankment & Pumping Zone",
+        "asset_class": "infrastructure"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.815,
+              39.505
+            ],
+            [
+              22.845,
+              39.505
+            ],
+            [
+              22.845,
+              39.535
+            ],
+            [
+              22.815,
+              39.535
+            ],
+            [
+              22.815,
+              39.505
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanalia Eastern Foothill Settlement Perimeter",
+        "asset_class": "settlement"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.915,
+              39.475
+            ],
+            [
+              22.94,
+              39.475
+            ],
+            [
+              22.94,
+              39.498
+            ],
+            [
+              22.915,
+              39.498
+            ],
+            [
+              22.915,
+              39.475
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

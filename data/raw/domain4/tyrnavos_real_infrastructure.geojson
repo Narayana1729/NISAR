@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Damasi\u2013Tyrnavos Coseismic Fault Hanging-Wall Agricultural Plain",
+        "asset_class": "agriculture"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.09,
+              39.7
+            ],
+            [
+              22.22,
+              39.7
+            ],
+            [
+              22.22,
+              39.79
+            ],
+            [
+              22.09,
+              39.79
+            ],
+            [
+              22.09,
+              39.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Titarisios River Valley & Damasi Settlement Perimeter",
+        "asset_class": "settlement"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.12,
+              39.71
+            ],
+            [
+              22.18,
+              39.71
+            ],
+            [
+              22.18,
+              39.76
+            ],
+            [
+              22.12,
+              39.76
+            ],
+            [
+              22.12,
+              39.71
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyrnavos\u2013Elassona National Highway Corridor (EO3)",
+        "asset_class": "road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.08,
+            39.68
+          ],
+          [
+            22.15,
+            39.74
+          ],
+          [
+            22.22,
+            39.8
+          ]
+        ]
+      }
+    }
+  ]
+}

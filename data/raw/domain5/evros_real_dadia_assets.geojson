@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dadia-Lefkimi-Soufli Forest National Park Core Zone",
+        "asset_class": "protected_area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.84,
+              40.97
+            ],
+            [
+              25.94,
+              40.97
+            ],
+            [
+              25.94,
+              41.04
+            ],
+            [
+              25.84,
+              41.04
+            ],
+            [
+              25.84,
+              40.97
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kotronia\u2013Giannouta Rural WUI & Evacuation Road Corridor",
+        "asset_class": "road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.83,
+            40.96
+          ],
+          [
+            25.88,
+            41.0
+          ],
+          [
+            25.95,
+            41.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern Dadia Black Vulture Habitat Buffer",
+        "asset_class": "protected_area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.85,
+              40.955
+            ],
+            [
+              25.92,
+              40.955
+            ],
+            [
+              25.92,
+              40.985
+            ],
+            [
+              25.85,
+              40.985
+            ],
+            [
+              25.85,
+              40.955
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

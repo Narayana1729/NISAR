@@ -1,0 +1,10 @@
+[
+  {
+    "run_id": "run-sample-001",
+    "dataset_id": "ds-sample-001",
+    "domain": "domain1",
+    "status": "completed",
+    "started_at": "2026-01-01T00:00:00Z",
+    "completed_at": "2026-01-01T00:05:00Z"
+  }
+]

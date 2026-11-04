@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "California Aqueduct Segment 14",
+        "asset_class": "road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -119.555,
+            36.102
+          ],
+          [
+            -119.545,
+            36.11
+          ],
+          [
+            -119.538,
+            36.116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corcoran Agricultural Processing District",
+        "asset_class": "settlement"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.55,
+              36.105
+            ],
+            [
+              -119.542,
+              36.105
+            ],
+            [
+              -119.542,
+              36.112
+            ],
+            [
+              -119.55,
+              36.112
+            ],
+            [
+              -119.55,
+              36.105
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

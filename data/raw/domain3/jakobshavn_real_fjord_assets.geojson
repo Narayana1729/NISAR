@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilulissat Icefjord UNESCO World Heritage Terminus Sector",
+        "asset_class": "protected_area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.89,
+              69.15
+            ],
+            [
+              -49.7,
+              69.15
+            ],
+            [
+              -49.7,
+              69.21
+            ],
+            [
+              -49.89,
+              69.21
+            ],
+            [
+              -49.89,
+              69.15
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sermeq Kujalleq Southern Shear Margin Monitoring Corridor",
+        "asset_class": "infrastructure"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.88,
+            69.145
+          ],
+          [
+            -49.76,
+            69.16
+          ],
+          [
+            -49.65,
+            69.175
+          ]
+        ]
+      }
+    }
+  ]
+}
