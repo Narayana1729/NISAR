@@ -67,6 +67,9 @@ jobs:
           node-version: 24.14.0
           cache: npm
 
+      - name: Install locked dependencies
+        run: npm ci
+
       - name: Run focused onboarding tests
         run: node --test src/setupDoctor.test.mjs src/mapStartup.test.mjs src/hudSummaryResponse.test.mjs
 
