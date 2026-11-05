@@ -6,8 +6,8 @@ God's Eye View is a local-first client for **public** data. It is built for expl
 
 Please report security issues **privately** — do not open a public issue for anything exploitable.
 
-- Use GitHub's [private vulnerability reporting](https://github.com/bilawalsidhu/gods-eye-view/security/advisories/new) (Security tab → "Report a vulnerability"), or
-- Reach the maintainer directly via the contact on the GitHub profile.
+- Use GitHub's [private vulnerability reporting](https://github.com/Narayana1729/NISAR/security/advisories/new) (Security tab → "Report a vulnerability"), or
+- Reach the project team directly via repository discussions or issues.
 
 Include repro steps and impact. We'll acknowledge, investigate, and credit you (if you'd like) once a fix ships.
 
